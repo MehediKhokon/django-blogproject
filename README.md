@@ -1,4 +1,4 @@
-# django-blogproject
+# Djagno Blog Project
 A Blog site with django backend <br>
 This is a blog site that contains a list of article and allow CRUD operation on the posts.
 #### Dependency list
